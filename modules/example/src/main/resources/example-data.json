@@ -1,0 +1,2873 @@
+{
+  "allWaypoints": [
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B27",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 321,
+      "y": 221
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J74",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -73,
+      "y": 782
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B32",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 128,
+      "y": 289
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J81",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -295,
+      "y": -713
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [
+        {
+          "symbol": "X1-HV68-C44"
+        }
+      ],
+      "symbol": "X1-HV68-C43",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint enveloped in a powerful magnetic field, potentially affecting spacecraft systems, and creating unique phenomena such as the concentration of exotic matter and graviton emitters.",
+          "name": "Strong Magnetosphere",
+          "symbol": "STRONG_MAGNETOSPHERE"
+        }
+      ],
+      "type": "GAS_GIANT",
+      "x": 154,
+      "y": -27
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B9",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Numerous shallow craters, offering easier access to sub-surface resources but also creating an uneven terrain that can complicate land-based activities.",
+          "name": "Shallow Craters",
+          "symbol": "SHALLOW_CRATERS"
+        },
+        {
+          "description": "Unpredictable gravity fields, making navigation and construction particularly challenging. These anomalies may also yield unique scientific research opportunities.",
+          "name": "Micro-Gravity Anomalies",
+          "symbol": "MICRO_GRAVITY_ANOMALIES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -369,
+      "y": 29
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": true,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-I57",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "JUMP_GATE",
+      "x": 76,
+      "y": 443
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B11",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -357,
+      "y": 60
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J61",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 528,
+      "y": -544
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J73",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 345,
+      "y": 700
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J71",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 630,
+      "y": 383
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.792Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-C43",
+      "symbol": "X1-HV68-C44",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A small, remote settlement providing essential services and a safe haven for travelers passing through.",
+          "name": "Outpost",
+          "symbol": "OUTPOST"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        },
+        {
+          "description": "A bustling hub for the construction, repair, and sale of various spacecraft, from humble shuttles to mighty warships.",
+          "name": "Shipyard",
+          "symbol": "SHIPYARD"
+        }
+      ],
+      "type": "ORBITAL_STATION",
+      "x": 154,
+      "y": -27
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.624Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B12",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -234,
+      "y": -240
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.622Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [
+        {
+          "symbol": "X1-HV68-A2"
+        },
+        {
+          "symbol": "X1-HV68-A3"
+        },
+        {
+          "symbol": "X1-HV68-A4"
+        }
+      ],
+      "symbol": "X1-HV68-A1",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "An ice-covered world with frigid temperatures, providing unique research opportunities and resources such as ice water, ammonia ice, and other frozen compounds.",
+          "name": "Frozen",
+          "symbol": "FROZEN"
+        },
+        {
+          "description": "A collection of dispersed communities, each independent yet connected through trade and communication networks.",
+          "name": "Scattered Settlements",
+          "symbol": "SCATTERED_SETTLEMENTS"
+        },
+        {
+          "description": "A waypoint with a life-sustaining atmosphere, allowing for easy colonization and the flourishing of diverse ecosystems without the need for advanced life support systems.",
+          "name": "Breathable Atmosphere",
+          "symbol": "BREATHABLE_ATMOSPHERE"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        },
+        {
+          "description": "A waypoint dominated by molten rock and intense heat, creating inhospitable conditions and requiring specialized technology to navigate and harvest resources.",
+          "name": "Magma Seas",
+          "symbol": "MAGMA_SEAS"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "PLANET",
+      "x": -24,
+      "y": 9
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B20",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 137,
+      "y": -298
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J68",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 743,
+      "y": 269
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J83",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A source of valuable metals like gold, silver, and platinum, as well as their ores, prized for their rarity, beauty, and various applications.",
+          "name": "Precious Metal Deposits",
+          "symbol": "PRECIOUS_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 281,
+      "y": -720
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J75",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 128,
+      "y": 732
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B29",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 321,
+      "y": 13
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B42",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A source of valuable metals like gold, silver, and platinum, as well as their ores, prized for their rarity, beauty, and various applications.",
+          "name": "Precious Metal Deposits",
+          "symbol": "PRECIOUS_METAL_DEPOSITS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -341,
+      "y": 179
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B33",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -126,
+      "y": 366
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J66",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 676,
+      "y": 326
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J78",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A treasure trove of scarce metal ores such as uranite and meritium, highly sought after for their unique properties and uses.",
+          "name": "Rare Metal Deposits",
+          "symbol": "RARE_METAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -389,
+      "y": 609
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J67",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        },
+        {
+          "description": "A region filled with hazardous debris and remnants of celestial bodies or man-made objects, requiring advanced navigational capabilities for ships passing through.",
+          "name": "Debris Cluster",
+          "symbol": "DEBRIS_CLUSTER"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 666,
+      "y": 400
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J80",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -478,
+      "y": -537
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [
+        {
+          "symbol": "X1-HV68-H54"
+        },
+        {
+          "symbol": "X1-HV68-H55"
+        },
+        {
+          "symbol": "X1-HV68-H56"
+        }
+      ],
+      "symbol": "X1-HV68-H53",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A world with a mild climate and balanced ecosystem, providing a comfortable environment for a variety of life forms and supporting diverse industries.",
+          "name": "Temperate",
+          "symbol": "TEMPERATE"
+        },
+        {
+          "description": "A collection of dispersed communities, each independent yet connected through trade and communication networks.",
+          "name": "Scattered Settlements",
+          "symbol": "SCATTERED_SETTLEMENTS"
+        },
+        {
+          "description": "A waypoint with a life-sustaining atmosphere, allowing for easy colonization and the flourishing of diverse ecosystems without the need for advanced life support systems.",
+          "name": "Breathable Atmosphere",
+          "symbol": "BREATHABLE_ATMOSPHERE"
+        },
+        {
+          "description": "A waypoint rich in the remains of ancient life, offering a valuable window into the past and the potential for scientific discovery.",
+          "name": "Fossils",
+          "symbol": "FOSSILS"
+        },
+        {
+          "description": "A hostile environment with an atmosphere that can rapidly degrade materials and equipment, requiring advanced engineering solutions to ensure the safety and longevity of structures and vehicles.",
+          "name": "Corrosive Atmosphere",
+          "symbol": "CORROSIVE_ATMOSPHERE"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "PLANET",
+      "x": 15,
+      "y": -41
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.630Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [
+        {
+          "symbol": "X1-HV68-E49"
+        }
+      ],
+      "symbol": "X1-HV68-E48",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A desolate world with little to no vegetation or water, presenting unique challenges for habitation and resource extraction.",
+          "name": "Barren",
+          "symbol": "BARREN"
+        },
+        {
+          "description": "Expansive urban centers that stretch across the landscape, boasting advanced infrastructure and diverse populations.",
+          "name": "Sprawling Cities",
+          "symbol": "SPRAWLING_CITIES"
+        },
+        {
+          "description": "A waypoint with a poisonous atmosphere, necessitating the use of specialized equipment and technology to protect inhabitants and visitors from harmful substances.",
+          "name": "Toxic Atmosphere",
+          "symbol": "TOXIC_ATMOSPHERE"
+        },
+        {
+          "description": "A waypoint with sparse signs of life, often presenting unique challenges for survival and adaptation in a harsh environment.",
+          "name": "Scarce Life",
+          "symbol": "SCARCE_LIFE"
+        },
+        {
+          "description": "A waypoint that never experiences darkness, providing abundant solar energy and unique living conditions for its inhabitants.",
+          "name": "Perpetual Daylight",
+          "symbol": "PERPETUAL_DAYLIGHT"
+        },
+        {
+          "description": "Expansive, barren plains covered in a thick layer of salt, offering unique opportunities for resource extraction, scientific research, and other activities.",
+          "name": "Salt Flats",
+          "symbol": "SALT_FLATS"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "PLANET",
+      "x": 40,
+      "y": 42
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.630Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [
+        {
+          "symbol": "X1-HV68-D47"
+        }
+      ],
+      "symbol": "X1-HV68-D46",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A volatile world marked by intense volcanic activity, creating a hazardous environment with the potential for valuable resource extraction, such as rare metals and geothermal energy.",
+          "name": "Volcanic",
+          "symbol": "VOLCANIC"
+        },
+        {
+          "description": "A collection of dispersed communities, each independent yet connected through trade and communication networks.",
+          "name": "Scattered Settlements",
+          "symbol": "SCATTERED_SETTLEMENTS"
+        },
+        {
+          "description": "A waypoint rich in the remains of ancient life, offering a valuable window into the past and the potential for scientific discovery.",
+          "name": "Fossils",
+          "symbol": "FOSSILS"
+        },
+        {
+          "description": "A location with a sparse atmosphere, making it difficult to support life without specialized life-support systems.",
+          "name": "Thin Atmosphere",
+          "symbol": "THIN_ATMOSPHERE"
+        },
+        {
+          "description": "Expansive, barren plains covered in a thick layer of salt, offering unique opportunities for resource extraction, scientific research, and other activities.",
+          "name": "Salt Flats",
+          "symbol": "SALT_FLATS"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "PLANET",
+      "x": -52,
+      "y": -68
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B21",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A treasure trove of scarce metal ores such as uranite and meritium, highly sought after for their unique properties and uses.",
+          "name": "Rare Metal Deposits",
+          "symbol": "RARE_METAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        },
+        {
+          "description": "A location with volatile geological composition, making it prone to frequent seismic activities and necessitating specialized construction techniques for long-term habitation or activity.",
+          "name": "Unstable Composition",
+          "symbol": "UNSTABLE_COMPOSITION"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 262,
+      "y": -194
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.787Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-A1",
+      "symbol": "X1-HV68-A3",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A desolate world with little to no vegetation or water, presenting unique challenges for habitation and resource extraction.",
+          "name": "Barren",
+          "symbol": "BARREN"
+        },
+        {
+          "description": "A small, remote settlement providing essential services and a safe haven for travelers passing through.",
+          "name": "Outpost",
+          "symbol": "OUTPOST"
+        },
+        {
+          "description": "A waypoint with scorching heat or freezing cold, requiring specialized equipment and technology to survive and thrive in these harsh environments.",
+          "name": "Extreme Temperatures",
+          "symbol": "EXTREME_TEMPERATURES"
+        },
+        {
+          "description": "A location characterized by immense atmospheric pressure, demanding robust engineering solutions and innovative approaches for exploration and resource extraction.",
+          "name": "Extreme Pressure",
+          "symbol": "EXTREME_PRESSURE"
+        },
+        {
+          "description": "A hostile environment with an atmosphere that can rapidly degrade materials and equipment, requiring advanced engineering solutions to ensure the safety and longevity of structures and vehicles.",
+          "name": "Corrosive Atmosphere",
+          "symbol": "CORROSIVE_ATMOSPHERE"
+        },
+        {
+          "description": "A waypoint that has been artificially transformed to support life, showcasing the engineering prowess of its inhabitants and providing a hospitable environment for colonization.",
+          "name": "Terraformed",
+          "symbol": "TERRAFORMED"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "MOON",
+      "x": -24,
+      "y": 9
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-G52",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "An ice-covered world with frigid temperatures, providing unique research opportunities and resources such as ice water, ammonia ice, and other frozen compounds.",
+          "name": "Frozen",
+          "symbol": "FROZEN"
+        },
+        {
+          "description": "Expansive urban centers that stretch across the landscape, boasting advanced infrastructure and diverse populations.",
+          "name": "Sprawling Cities",
+          "symbol": "SPRAWLING_CITIES"
+        },
+        {
+          "description": "A waypoint dominated by molten rock and intense heat, creating inhospitable conditions and requiring specialized technology to navigate and harvest resources.",
+          "name": "Magma Seas",
+          "symbol": "MAGMA_SEAS"
+        },
+        {
+          "description": "A location with a constant cloud cover, resulting in a perpetually dim and shadowy environment, often impacting local weather and ecosystems.",
+          "name": "Perpetual Overcast",
+          "symbol": "PERPETUAL_OVERCAST"
+        },
+        {
+          "description": "A waypoint rich in the remains of ancient life, offering a valuable window into the past and the potential for scientific discovery.",
+          "name": "Fossils",
+          "symbol": "FOSSILS"
+        },
+        {
+          "description": "A hostile environment with an atmosphere that can rapidly degrade materials and equipment, requiring advanced engineering solutions to ensure the safety and longevity of structures and vehicles.",
+          "name": "Corrosive Atmosphere",
+          "symbol": "CORROSIVE_ATMOSPHERE"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "PLANET",
+      "x": 51,
+      "y": -43
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.630Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [
+        {
+          "symbol": "X1-HV68-F51"
+        }
+      ],
+      "symbol": "X1-HV68-F50",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A damp, murky world characterized by its wetlands and abundant vegetation, fostering a diverse ecosystem and offering potential resources like hydrocarbons and exotic plant life.",
+          "name": "Swamp",
+          "symbol": "SWAMP"
+        },
+        {
+          "description": "A small, remote settlement providing essential services and a safe haven for travelers passing through.",
+          "name": "Outpost",
+          "symbol": "OUTPOST"
+        },
+        {
+          "description": "Vast, desolate landscapes that once held oceans, now exposing the remnants of ancient marine life and providing opportunities for the discovery of valuable resources.",
+          "name": "Dry Seabeds",
+          "symbol": "DRY_SEABEDS"
+        },
+        {
+          "description": "A waypoint rich in the remains of ancient life, offering a valuable window into the past and the potential for scientific discovery.",
+          "name": "Fossils",
+          "symbol": "FOSSILS"
+        },
+        {
+          "description": "A location filled with a dense cloud of ash and debris. Sometimes difficult to navigate, and may be hazardous to ships and other vessels. Sometimes able to provide shelter or protection from other hazards.",
+          "name": "Ash Clouds",
+          "symbol": "ASH_CLOUDS"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "PLANET",
+      "x": -55,
+      "y": 49
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.792Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-H53",
+      "symbol": "X1-HV68-H54",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A world with a rugged, rocky landscape, rich in minerals and other resources, providing a variety of opportunities for mining, research, and exploration.",
+          "name": "Rocky",
+          "symbol": "ROCKY"
+        },
+        {
+          "description": "A small, remote settlement providing essential services and a safe haven for travelers passing through.",
+          "name": "Outpost",
+          "symbol": "OUTPOST"
+        },
+        {
+          "description": "A location with a sparse atmosphere, making it difficult to support life without specialized life-support systems.",
+          "name": "Thin Atmosphere",
+          "symbol": "THIN_ATMOSPHERE"
+        },
+        {
+          "description": "A waypoint enveloped in a powerful magnetic field, potentially affecting spacecraft systems, and creating unique phenomena such as the concentration of exotic matter and graviton emitters.",
+          "name": "Strong Magnetosphere",
+          "symbol": "STRONG_MAGNETOSPHERE"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        },
+        {
+          "description": "A bustling hub for the construction, repair, and sale of various spacecraft, from humble shuttles to mighty warships.",
+          "name": "Shipyard",
+          "symbol": "SHIPYARD"
+        }
+      ],
+      "type": "MOON",
+      "x": 15,
+      "y": -41
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J59",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "FUEL_STATION",
+      "x": 101,
+      "y": 590
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J62",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 229,
+      "y": -732
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J63",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A location with volatile geological composition, making it prone to frequent seismic activities and necessitating specialized construction techniques for long-term habitation or activity.",
+          "name": "Unstable Composition",
+          "symbol": "UNSTABLE_COMPOSITION"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 491,
+      "y": -617
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B22",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A region filled with hazardous debris and remnants of celestial bodies or man-made objects, requiring advanced navigational capabilities for ships passing through.",
+          "name": "Debris Cluster",
+          "symbol": "DEBRIS_CLUSTER"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 304,
+      "y": -62
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B25",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 353,
+      "y": -35
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J82",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 56,
+      "y": -744
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J70",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Unpredictable gravity fields, making navigation and construction particularly challenging. These anomalies may also yield unique scientific research opportunities.",
+          "name": "Micro-Gravity Anomalies",
+          "symbol": "MICRO_GRAVITY_ANOMALIES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 762,
+      "y": -55
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J72",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Numerous shallow craters, offering easier access to sub-surface resources but also creating an uneven terrain that can complicate land-based activities.",
+          "name": "Shallow Craters",
+          "symbol": "SHALLOW_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 61,
+      "y": 783
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B38",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Numerous shallow craters, offering easier access to sub-surface resources but also creating an uneven terrain that can complicate land-based activities.",
+          "name": "Shallow Craters",
+          "symbol": "SHALLOW_CRATERS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -270,
+      "y": 157
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B40",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -233,
+      "y": 313
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B41",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -151,
+      "y": 353
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B34",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 7,
+      "y": 337
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.791Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-H53",
+      "symbol": "X1-HV68-H56",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A world with a rugged, rocky landscape, rich in minerals and other resources, providing a variety of opportunities for mining, research, and exploration.",
+          "name": "Rocky",
+          "symbol": "ROCKY"
+        },
+        {
+          "description": "A collection of dispersed communities, each independent yet connected through trade and communication networks.",
+          "name": "Scattered Settlements",
+          "symbol": "SCATTERED_SETTLEMENTS"
+        },
+        {
+          "description": "A waypoint enveloped in a powerful magnetic field, potentially affecting spacecraft systems, and creating unique phenomena such as the concentration of exotic matter and graviton emitters.",
+          "name": "Strong Magnetosphere",
+          "symbol": "STRONG_MAGNETOSPHERE"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "MOON",
+      "x": 15,
+      "y": -41
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.792Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-A1",
+      "symbol": "X1-HV68-A4",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A forward-operating base for explorers, scientists, and pioneers, providing support and resources for those venturing into uncharted territories.",
+          "name": "Exploration Outpost",
+          "symbol": "EXPLORATION_OUTPOST"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "ORBITAL_STATION",
+      "x": -24,
+      "y": 9
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.793Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-D46",
+      "symbol": "X1-HV68-D47",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A world with a rugged, rocky landscape, rich in minerals and other resources, providing a variety of opportunities for mining, research, and exploration.",
+          "name": "Rocky",
+          "symbol": "ROCKY"
+        },
+        {
+          "description": "A collection of dispersed communities, each independent yet connected through trade and communication networks.",
+          "name": "Scattered Settlements",
+          "symbol": "SCATTERED_SETTLEMENTS"
+        },
+        {
+          "description": "A waypoint with scorching heat or freezing cold, requiring specialized equipment and technology to survive and thrive in these harsh environments.",
+          "name": "Extreme Temperatures",
+          "symbol": "EXTREME_TEMPERATURES"
+        },
+        {
+          "description": "A celestial light show caused by the interaction of charged particles with the waypoint's atmosphere, creating a mesmerizing spectacle and attracting tourists from across the galaxy.",
+          "name": "Vibrant Auroras",
+          "symbol": "VIBRANT_AURORAS"
+        },
+        {
+          "description": "A waypoint enveloped in a powerful magnetic field, potentially affecting spacecraft systems, and creating unique phenomena such as the concentration of exotic matter and graviton emitters.",
+          "name": "Strong Magnetosphere",
+          "symbol": "STRONG_MAGNETOSPHERE"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "MOON",
+      "x": -52,
+      "y": -68
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.625Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-AA5Z",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A location that has been over-mined or over-harvested, resulting in depleted resources and barren landscapes.",
+          "name": "Stripped",
+          "symbol": "STRIPPED"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "ENGINEERED_ASTEROID",
+      "x": 2,
+      "y": -26
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B18",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A location with large hollow spaces beneath its surface, providing unique opportunities for subterranean construction and resource extraction, but also posing risks of structural instability.",
+          "name": "Hollowed Interior",
+          "symbol": "HOLLOWED_INTERIOR"
+        },
+        {
+          "description": "Numerous shallow craters, offering easier access to sub-surface resources but also creating an uneven terrain that can complicate land-based activities.",
+          "name": "Shallow Craters",
+          "symbol": "SHALLOW_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -79,
+      "y": -330
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B26",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 275,
+      "y": 146
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-C45",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "FUEL_STATION",
+      "x": 112,
+      "y": -20
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.625Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B13",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -321,
+      "y": -80
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B14",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Unpredictable gravity fields, making navigation and construction particularly challenging. These anomalies may also yield unique scientific research opportunities.",
+          "name": "Micro-Gravity Anomalies",
+          "symbol": "MICRO_GRAVITY_ANOMALIES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -297,
+      "y": -156
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B17",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -59,
+      "y": -384
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B10",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -302,
+      "y": -131
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-I58",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "FUEL_STATION",
+      "x": 39,
+      "y": 229
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J64",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Numerous shallow craters, offering easier access to sub-surface resources but also creating an uneven terrain that can complicate land-based activities.",
+          "name": "Shallow Craters",
+          "symbol": "SHALLOW_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 172,
+      "y": -725
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B23",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 357,
+      "y": 6
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J65",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A region filled with hazardous debris and remnants of celestial bodies or man-made objects, requiring advanced navigational capabilities for ships passing through.",
+          "name": "Debris Cluster",
+          "symbol": "DEBRIS_CLUSTER"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 767,
+      "y": 41
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J77",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -227,
+      "y": 689
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B24",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Numerous shallow craters, offering easier access to sub-surface resources but also creating an uneven terrain that can complicate land-based activities.",
+          "name": "Shallow Craters",
+          "symbol": "SHALLOW_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 367,
+      "y": -19
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J79",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        },
+        {
+          "description": "A location with volatile geological composition, making it prone to frequent seismic activities and necessitating specialized construction techniques for long-term habitation or activity.",
+          "name": "Unstable Composition",
+          "symbol": "UNSTABLE_COMPOSITION"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -716,
+      "y": -215
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.622Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B7",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A location with large hollow spaces beneath its surface, providing unique opportunities for subterranean construction and resource extraction, but also posing risks of structural instability.",
+          "name": "Hollowed Interior",
+          "symbol": "HOLLOWED_INTERIOR"
+        },
+        {
+          "description": "A small, remote settlement providing essential services and a safe haven for travelers passing through.",
+          "name": "Outpost",
+          "symbol": "OUTPOST"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "ASTEROID_BASE",
+      "x": -346,
+      "y": 19
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B16",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A location with large hollow spaces beneath its surface, providing unique opportunities for subterranean construction and resource extraction, but also posing risks of structural instability.",
+          "name": "Hollowed Interior",
+          "symbol": "HOLLOWED_INTERIOR"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -168,
+      "y": -329
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B30",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A location with large hollow spaces beneath its surface, providing unique opportunities for subterranean construction and resource extraction, but also posing risks of structural instability.",
+          "name": "Hollowed Interior",
+          "symbol": "HOLLOWED_INTERIOR"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 298,
+      "y": 247
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B31",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        },
+        {
+          "description": "Unpredictable gravity fields, making navigation and construction particularly challenging. These anomalies may also yield unique scientific research opportunities.",
+          "name": "Micro-Gravity Anomalies",
+          "symbol": "MICRO_GRAVITY_ANOMALIES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 257,
+      "y": 272
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.789Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-E48",
+      "symbol": "X1-HV68-E49",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "An ice-covered world with frigid temperatures, providing unique research opportunities and resources such as ice water, ammonia ice, and other frozen compounds.",
+          "name": "Frozen",
+          "symbol": "FROZEN"
+        },
+        {
+          "description": "A collection of dispersed communities, each independent yet connected through trade and communication networks.",
+          "name": "Scattered Settlements",
+          "symbol": "SCATTERED_SETTLEMENTS"
+        },
+        {
+          "description": "A location characterized by immense atmospheric pressure, demanding robust engineering solutions and innovative approaches for exploration and resource extraction.",
+          "name": "Extreme Pressure",
+          "symbol": "EXTREME_PRESSURE"
+        },
+        {
+          "description": "A hostile environment with an atmosphere that can rapidly degrade materials and equipment, requiring advanced engineering solutions to ensure the safety and longevity of structures and vehicles.",
+          "name": "Corrosive Atmosphere",
+          "symbol": "CORROSIVE_ATMOSPHERE"
+        },
+        {
+          "description": "A waypoint that has been artificially transformed to support life, showcasing the engineering prowess of its inhabitants and providing a hospitable environment for colonization.",
+          "name": "Terraformed",
+          "symbol": "TERRAFORMED"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "MOON",
+      "x": 40,
+      "y": 42
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J76",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -105,
+      "y": 744
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J69",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A treasure trove of scarce metal ores such as uranite and meritium, highly sought after for their unique properties and uses.",
+          "name": "Rare Metal Deposits",
+          "symbol": "RARE_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 400,
+      "y": 654
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B28",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 364,
+      "y": 6
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B19",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 69,
+      "y": -322
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.627Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-J60",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A location with large hollow spaces beneath its surface, providing unique opportunities for subterranean construction and resource extraction, but also posing risks of structural instability.",
+          "name": "Hollowed Interior",
+          "symbol": "HOLLOWED_INTERIOR"
+        },
+        {
+          "description": "A hidden stronghold for pirates and other outlaws, providing a safe haven for their illicit activities and a base of operations for raids and other criminal activities. You wouldn't support pirates against your faction, would you?",
+          "name": "Pirate Base",
+          "symbol": "PIRATE_BASE"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "ASTEROID_BASE",
+      "x": 121,
+      "y": 708
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.789Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-F50",
+      "symbol": "X1-HV68-F51",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A volatile world marked by intense volcanic activity, creating a hazardous environment with the potential for valuable resource extraction, such as rare metals and geothermal energy.",
+          "name": "Volcanic",
+          "symbol": "VOLCANIC"
+        },
+        {
+          "description": "A collection of dispersed communities, each independent yet connected through trade and communication networks.",
+          "name": "Scattered Settlements",
+          "symbol": "SCATTERED_SETTLEMENTS"
+        },
+        {
+          "description": "A waypoint with scorching heat or freezing cold, requiring specialized equipment and technology to survive and thrive in these harsh environments.",
+          "name": "Extreme Temperatures",
+          "symbol": "EXTREME_TEMPERATURES"
+        },
+        {
+          "description": "A waypoint that has been artificially transformed to support life, showcasing the engineering prowess of its inhabitants and providing a hospitable environment for colonization.",
+          "name": "Terraformed",
+          "symbol": "TERRAFORMED"
+        },
+        {
+          "description": "A center of innovation and cutting-edge technology, driving progress and attracting skilled individuals from around the galaxy.",
+          "name": "High-Tech",
+          "symbol": "HIGH_TECH"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "ORBITAL_STATION",
+      "x": -55,
+      "y": 49
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.628Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-K84",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A volatile world marked by intense volcanic activity, creating a hazardous environment with the potential for valuable resource extraction, such as rare metals and geothermal energy.",
+          "name": "Volcanic",
+          "symbol": "VOLCANIC"
+        },
+        {
+          "description": "A small, remote settlement providing essential services and a safe haven for travelers passing through.",
+          "name": "Outpost",
+          "symbol": "OUTPOST"
+        },
+        {
+          "description": "A waypoint teeming with a wide variety of life forms, providing ample opportunities for scientific research, trade, and even tourism.",
+          "name": "Diverse Life",
+          "symbol": "DIVERSE_LIFE"
+        },
+        {
+          "description": "A waypoint with a powerful gravitational force, requiring specialized technology and infrastructure to support habitation and resource extraction.",
+          "name": "Strong Gravity",
+          "symbol": "STRONG_GRAVITY"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "PLANET",
+      "x": 43,
+      "y": 95
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B39",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -291,
+      "y": 160
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B6",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "FUEL_STATION",
+      "x": -122,
+      "y": 144
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B8",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -236,
+      "y": 244
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.626Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B15",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A waypoint rich in common metal ores like iron, copper, and aluminum, essential for construction and manufacturing.",
+          "name": "Common Metal Deposits",
+          "symbol": "COMMON_METAL_DEPOSITS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -208,
+      "y": -260
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.630Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B37",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A volatile environment filled with highly reactive gases, posing a constant risk to those who venture too close and offering opportunities for harvesting valuable materials such as hydrocarbons.",
+          "name": "Explosive Gases",
+          "symbol": "EXPLOSIVE_GASES"
+        },
+        {
+          "description": "Marked by deep, expansive craters, potentially formed by ancient meteor impacts. These formations may offer hidden resources but also pose challenges for mobility and construction.",
+          "name": "Deep Craters",
+          "symbol": "DEEP_CRATERS"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 10,
+      "y": 313
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.792Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-H53",
+      "symbol": "X1-HV68-H55",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A volatile world marked by intense volcanic activity, creating a hazardous environment with the potential for valuable resource extraction, such as rare metals and geothermal energy.",
+          "name": "Volcanic",
+          "symbol": "VOLCANIC"
+        },
+        {
+          "description": "A small, remote settlement providing essential services and a safe haven for travelers passing through.",
+          "name": "Outpost",
+          "symbol": "OUTPOST"
+        },
+        {
+          "description": "A waypoint that has been artificially transformed to support life, showcasing the engineering prowess of its inhabitants and providing a hospitable environment for colonization.",
+          "name": "Terraformed",
+          "symbol": "TERRAFORMED"
+        },
+        {
+          "description": "A waypoint with a poisonous atmosphere, necessitating the use of specialized equipment and technology to protect inhabitants and visitors from harmful substances.",
+          "name": "Toxic Atmosphere",
+          "symbol": "TOXIC_ATMOSPHERE"
+        },
+        {
+          "description": "A waypoint with scorching heat or freezing cold, requiring specialized equipment and technology to survive and thrive in these harsh environments.",
+          "name": "Extreme Temperatures",
+          "symbol": "EXTREME_TEMPERATURES"
+        },
+        {
+          "description": "A location characterized by immense atmospheric pressure, demanding robust engineering solutions and innovative approaches for exploration and resource extraction.",
+          "name": "Extreme Pressure",
+          "symbol": "EXTREME_PRESSURE"
+        },
+        {
+          "description": "A waypoint dominated by factories, refineries, and other heavy industries, often accompanied by pollution and a bustling workforce.",
+          "name": "Industrial",
+          "symbol": "INDUSTRIAL"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        }
+      ],
+      "type": "MOON",
+      "x": 15,
+      "y": -41
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B35",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A hazardous location with elevated levels of radiation, requiring specialized equipment and shielding for safe habitation and exploration.",
+          "name": "Radioactive",
+          "symbol": "RADIOACTIVE"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": 127,
+      "y": 285
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.629Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "symbol": "X1-HV68-B36",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "Abundant mineral resources, attracting mining operations and providing valuable materials such as silicon crystals and quartz sand for various industries.",
+          "name": "Mineral Deposits",
+          "symbol": "MINERAL_DEPOSITS"
+        },
+        {
+          "description": "A location with volatile geological composition, making it prone to frequent seismic activities and necessitating specialized construction techniques for long-term habitation or activity.",
+          "name": "Unstable Composition",
+          "symbol": "UNSTABLE_COMPOSITION"
+        }
+      ],
+      "type": "ASTEROID",
+      "x": -216,
+      "y": 249
+    },
+    {
+      "chart": {
+        "submittedBy": "GALACTIC",
+        "submittedOn": "2023-12-02T18:47:15.787Z"
+      },
+      "faction": {
+        "symbol": "GALACTIC"
+      },
+      "isUnderConstruction": false,
+      "modifiers": [],
+      "orbitals": [],
+      "orbits": "X1-HV68-A1",
+      "symbol": "X1-HV68-A2",
+      "systemSymbol": "X1-HV68",
+      "traits": [
+        {
+          "description": "A world with a rugged, rocky landscape, rich in minerals and other resources, providing a variety of opportunities for mining, research, and exploration.",
+          "name": "Rocky",
+          "symbol": "ROCKY"
+        },
+        {
+          "description": "A collection of dispersed communities, each independent yet connected through trade and communication networks.",
+          "name": "Scattered Settlements",
+          "symbol": "SCATTERED_SETTLEMENTS"
+        },
+        {
+          "description": "A waypoint that has been artificially transformed to support life, showcasing the engineering prowess of its inhabitants and providing a hospitable environment for colonization.",
+          "name": "Terraformed",
+          "symbol": "TERRAFORMED"
+        },
+        {
+          "description": "A celestial light show caused by the interaction of charged particles with the waypoint's atmosphere, creating a mesmerizing spectacle and attracting tourists from across the galaxy.",
+          "name": "Vibrant Auroras",
+          "symbol": "VIBRANT_AURORAS"
+        },
+        {
+          "description": "A thriving center of commerce where traders from across the galaxy gather to buy, sell, and exchange goods.",
+          "name": "Marketplace",
+          "symbol": "MARKETPLACE"
+        },
+        {
+          "description": "A bustling hub for the construction, repair, and sale of various spacecraft, from humble shuttles to mighty warships.",
+          "name": "Shipyard",
+          "symbol": "SHIPYARD"
+        }
+      ],
+      "type": "MOON",
+      "x": -24,
+      "y": 9
+    }
+  ],
+  "fuel": 400,
+  "fuelCapacity": 400,
+  "goalSymbol": "X1-HV68-C44",
+  "refuelingStations": [
+    "X1-HV68-A3",
+    "X1-HV68-H53",
+    "X1-HV68-C44",
+    "X1-HV68-J59",
+    "X1-HV68-H56",
+    "X1-HV68-AA5Z",
+    "X1-HV68-C45",
+    "X1-HV68-D46",
+    "X1-HV68-E48",
+    "X1-HV68-A2",
+    "X1-HV68-K84",
+    "X1-HV68-F51",
+    "X1-HV68-G52",
+    "X1-HV68-F50",
+    "X1-HV68-I58",
+    "X1-HV68-A4",
+    "X1-HV68-I57",
+    "X1-HV68-E49",
+    "X1-HV68-H55",
+    "X1-HV68-A1",
+    "X1-HV68-B7",
+    "X1-HV68-H54",
+    "X1-HV68-D47",
+    "X1-HV68-B6",
+    "X1-HV68-J60"
+  ],
+  "shipSpeed": 30,
+  "startSymbol": "X1-HV68-D46"
+}
